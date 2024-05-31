@@ -6,6 +6,11 @@ Link para execução pelo COLAB:
 
 https://colab.research.google.com/drive/1NTP4ZTKOVKYKjF2na16mbN14JR6lKnc5?usp=sharing
 
+Opções disponíveis no código:
+* Microwave
+* Notebook
+* Refrigerator
+* Teddy
 
 RESULTADO FINAL:
 
